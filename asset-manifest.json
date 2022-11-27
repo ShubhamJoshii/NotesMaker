@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NotesMaker/static/css/main.59f8280f.css",
+    "main.js": "/NotesMaker/static/js/main.cb3d6013.js",
+    "index.html": "/NotesMaker/index.html",
+    "main.59f8280f.css.map": "/NotesMaker/static/css/main.59f8280f.css.map",
+    "main.cb3d6013.js.map": "/NotesMaker/static/js/main.cb3d6013.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59f8280f.css",
+    "static/js/main.cb3d6013.js"
+  ]
+}
